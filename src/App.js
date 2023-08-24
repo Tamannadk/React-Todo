@@ -49,9 +49,9 @@ function App() {
   };
   //cancel Update
   ///////////////////
-  const cancelUpdate = () => {
-    setUpdateData("");
-  };
+  // const cancelUpdate = () => {
+  //   setUpdateData("");
+  // };
   //change task for update
   ///////////////////
   const changeTask = (e) => {
